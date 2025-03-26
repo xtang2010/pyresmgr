@@ -1,0 +1,9 @@
+STATE=Desktop
+INSTALLDIR=x86_64/lib/
+INSTALLNAME=libpyresmgr.so.1
+NAME=libpyresmgr.so
+USER=xtang
+HOST=xs7p
+DATE=2025/03/26-19:53:20-
+SYMLINK=libpyresmgr.so
+DESCRIPTION=Python Resource Manager Helper Library
